@@ -1,0 +1,18 @@
+
+
+// total image sequence
+
+// image sequence name, based on asset.xcassets
+
+// getting scroll value
+
+// animation speed
+
+// animation starting point
+// we can change the value, depending on how many "image sequences" we have & increase or decrease the "speed" value
+
+// total image count
+
+// logic
+// "1 - imageCount" to reverse the sequence
+// "imageCount - 1" to get the last image of the sequence
